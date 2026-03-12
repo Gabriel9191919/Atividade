@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Q5_CadastroSimples
+{
+    internal class Repositorio
+    {
+        public List<Pessoa> Usuario = new List<Pessoa>();
+        
+    }
+}
